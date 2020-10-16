@@ -12,8 +12,8 @@ import (
 
 	"github.com/microcosm-cc/bluemonday"
 	"github.com/projectdiscovery/cdncheck"
-	"github.com/projectdiscovery/httpx/common/cache"
-	"github.com/projectdiscovery/httpx/common/httputilz"
+	"github.com/00xfd/httpx/common/cache"
+	"github.com/00xfd/httpx/common/httputilz"
 	"github.com/projectdiscovery/rawhttp"
 	retryablehttp "github.com/projectdiscovery/retryablehttp-go"
 	"golang.org/x/net/http2"

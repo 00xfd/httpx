@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
+	dns "github.com/00xfd/httpx/common/resolve"
 	"github.com/coocood/freecache"
-	dns "github.com/projectdiscovery/httpx/common/resolve"
 )
 
 var (

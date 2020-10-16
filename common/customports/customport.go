@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/projectdiscovery/httpx/common/httpx"
+	"github.com/00xfd/httpx/common/httpx"
 )
 
 //nolint:gochecknoinits // this flag var needs a small refactor to avoid the use of the init function

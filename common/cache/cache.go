@@ -3,8 +3,8 @@ package cache
 import (
 	"net"
 
+	dns "github.com/00xfd/httpx/common/resolve"
 	"github.com/coocood/freecache"
-	dns "github.com/projectdiscovery/httpx/common/resolve"
 )
 
 const megaByteBytes = 1048576
